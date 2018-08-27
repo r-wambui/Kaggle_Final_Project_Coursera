@@ -1,0 +1,4 @@
+*.DS_Store
+Data/
+submission.csv
+.ipynb_checkpoints/
